@@ -1,1 +1,1 @@
-<?php header("Location: http://lisascleaningservices.com/"); die(); ?>
+<?php header("Location: https://stuartcove.com/scuba-diving"); die(); ?>
