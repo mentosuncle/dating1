@@ -1,1 +1,1 @@
-<?php header("Location: https://stuartcove.com/scuba-diving"); die(); ?>
+<?php header("Location: https://houseplans.thisoldhouse.com/"); die(); ?>
