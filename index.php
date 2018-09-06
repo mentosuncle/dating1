@@ -1,1 +1,1 @@
-<?php header("Location: http://bestcarwashonline.us"); die(); ?>
+<?php header("Location: https://ismw.org/"); die(); ?>
